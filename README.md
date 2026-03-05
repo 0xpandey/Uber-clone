@@ -4,7 +4,7 @@ This project is a **UI clone of the Uber landing page** built using **HTML and C
 It focuses on recreating the layout, styling, and structure of the Uber homepage while practicing front-end development skills.
 
 ## 🌐 Live Preview
-You can open the `index.html` file in your browser to view the project locally.
+https://0xpandey.github.io/Uber-clone/
 
 ## 📌 Features
 
